@@ -1,8 +1,7 @@
 # app-dev
 My first repository
 
-# Transformers  
-Transformers is one of my favorite movies! Here's why:  
+# Movie: Transformers    
 
 ## Overview  
 - **Genre:** Action, Science Fiction  
@@ -15,7 +14,7 @@ The film follows the epic battle between the Autobots and Decepticons, two group
 ## Why I Like It  
 - Incredible action scenes and special effects  
 - Amazing characters, especially Optimus Prime and Bumblebee  
-- A nostalgic mix of robots and cars!  
+- A nostalgic mix of robots and cars  
 
 ## Memorable Quote  
 > "Freedom is the right of all sentient beings." - Optimus Prime
