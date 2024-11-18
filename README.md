@@ -12,7 +12,7 @@ My first repository
 The film follows the epic battle between the Autobots and Decepticons, two groups of alien robots, as they bring their fight to Earth. A teenager named Sam Witwicky discovers he has a key role in saving humanity.  
 
 ## Why I Like It  
-- Incredible action scenes and special effects 🚗🤖  
+- Incredible action scenes and special effects 
 - Amazing characters, especially Optimus Prime and Bumblebee  
 - A nostalgic mix of robots and cars!  
 
